@@ -5,3 +5,5 @@
 📫 - You can reach me on Discord - ogjackk#4433
 
 ⚡ - 13 Years Old
+
+📍 - https://ogjackk.com/
