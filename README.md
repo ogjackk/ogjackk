@@ -1,6 +1,6 @@
 👋 - Hi, I’m @ogjackk
 
-🌱 - I’m currently learning more fluent JS
+🌱 - I’m currently learning more fluent CSS
 
 📫 - You can reach me on Discord - ogjackk#4433
 
