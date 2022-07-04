@@ -1,6 +1,6 @@
 ```@ogjackk | https://ogjackk.com/```
 
-```Region :: Florida // America```
+```Region :: America```
 
 ```Interests :: C#, Automation```
 
