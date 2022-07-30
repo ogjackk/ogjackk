@@ -4,7 +4,7 @@
 
 ```Interests :: C#, Automation```
 
-```Experience :: 1.5 years of C#```
+```Experience :: 2 years of C#```
 
 ```Projects :: None at the moment```
 
